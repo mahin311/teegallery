@@ -1,0 +1,76 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="teegallery.ga" resolutions="1x" timestamp="1586807472504">
+  <folder name="css">
+    <file name="site_global.css" crc="4275521114"/>
+    <file name="master_a-master.css" crc="43746384" ref="contact-us:womans-wear:about:gallery:womans-underwear:mens-underwear:featured-products:index:mens-wear:kids-wear"/>
+    <file name="contact-us.css" crc="359188118" ref="contact-us"/>
+    <file name="womans-wear.css" crc="4181039490" ref="womans-wear"/>
+    <file name="about.css" crc="397619718" ref="about"/>
+    <file name="gallery.css" crc="211463496" ref="gallery"/>
+    <file name="womans-underwear.css" crc="4181039490" ref="womans-underwear"/>
+    <file name="mens-underwear.css" crc="4181039490" ref="mens-underwear"/>
+    <file name="featured-products.css" crc="4181039490" ref="featured-products"/>
+    <file name="index.css" crc="3990154227" ref="index"/>
+    <file name="mens-wear.css" crc="4181039490" ref="mens-wear"/>
+    <file name="kids-wear.css" crc="4181039490" ref="kids-wear"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:about:contact-us:mens-wear:womans-wear:featured-products:kids-wear:mens-underwear:womans-underwear"/>
+    <file name="museutils.js" crc="340535759" ref="index:gallery:about:contact-us:mens-wear:womans-wear:featured-products:kids-wear:mens-underwear:womans-underwear"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gallery:about:contact-us:mens-wear:womans-wear:featured-products:kids-wear:mens-underwear:womans-underwear"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:gallery:about:contact-us:mens-wear:womans-wear:featured-products:kids-wear:mens-underwear:womans-underwear"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:gallery:about:contact-us:mens-wear:womans-wear:featured-products:kids-wear:mens-underwear:womans-underwear"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:gallery:about:contact-us:mens-wear:womans-wear:featured-products:kids-wear:mens-underwear:womans-underwear"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact-us"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gallery:about:contact-us:mens-wear:womans-wear:featured-products:kids-wear:mens-underwear:womans-underwear"/>
+    <file name="require.js" crc="7928878" ref="index:gallery:about:contact-us:mens-wear:womans-wear:featured-products:kids-wear:mens-underwear:womans-underwear"/>
+    <file name="form_check.php" crc="4020933626" ref="contact-us"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact-us"/>
+    <file name="form_process.php" crc="37464564" ref="contact-us"/>
+    <file name="form-u1310.php" crc="12420788" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="tee-2fcfd2.jpg" crc="492578420" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo tee gallery.png" crc="507511416" seo="true" ref="index:gallery:about:contact-us:mens-wear:womans-wear:featured-products:kids-wear:mens-underwear:womans-underwear">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="featured-products" alt=""/>
+      <caption webpage="kids-wear" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mens-wear" alt=""/>
+      <caption webpage="womans-wear" alt=""/>
+      <caption webpage="mens-underwear" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="womans-underwear" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="491424337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road.jpg" crc="180693847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="4071309946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="207377276" seo="true" mt="1586807236058" redirect="true"/>
+  <file name="gallery.html" crc="3952335807" seo="true" mt="1586807236058" redirect="true"/>
+  <file name="about.html" crc="4004105424" seo="true" mt="1586807236058" redirect="true"/>
+  <file name="contact-us.html" crc="4007353909" seo="true" mt="1586807236058" redirect="true"/>
+  <file name="mens-wear.html" crc="3879589181" seo="true" mt="1586807236058" redirect="true"/>
+  <file name="womans-wear.html" crc="386498208" seo="true" mt="1586807236058" redirect="true"/>
+  <file name="featured-products.html" crc="90448308" seo="true" mt="1586807236058" redirect="true"/>
+  <file name="kids-wear.html" crc="4031751311" seo="true" mt="1586807236058" redirect="true"/>
+  <file name="mens-underwear.html" crc="282772905" seo="true" mt="1586807236058" redirect="true"/>
+  <file name="womans-underwear.html" crc="288526360" seo="true" mt="1586807236058" redirect="true"/>
+</manifest>
